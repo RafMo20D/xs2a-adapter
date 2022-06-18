@@ -82,7 +82,7 @@
         <swagger-ui.version>3.52.5</swagger-ui.version>
 
         <!-- other -->
-        <servlet-api.version>4.0.0</servlet-api.version>
+        <servlet-api.version>4.0.1</servlet-api.version>
         <docker.image>${project.artifactId}</docker.image>
         <mapstruct.version>1.4.2.Final</mapstruct.version>
         <javatar-commons.version>0.8</javatar-commons.version>
